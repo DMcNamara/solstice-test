@@ -16,7 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@solstice-test/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@solstice-test/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@solstice-test/utils": ["libs/utils/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
