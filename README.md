@@ -39,6 +39,7 @@ There's a million things left to do for this to be production quality, but the b
     - There's none. There's no notice if API requests fail, no handling of 404s etc
 - Tests
     - I wrote very few unit tests to save time. I wrote no e2e tests but Nx sets the framework up for you in React, so that's why it's there.
+    - Also need to set up a CI/CD flow
 - Design
     - It's... not great. I am not a designer.
 
